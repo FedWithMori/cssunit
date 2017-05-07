@@ -1,0 +1,4 @@
+{
+    "unit": " * @ratio",
+    "available_file_types": [".css", ".less", ".sass"]
+}
