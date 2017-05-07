@@ -1,4 +1,4 @@
-###cssunit
+##cssunit
 -------------
 
 一个自动补齐指定单位的插件
@@ -9,10 +9,10 @@
 
 ##### 安装步骤
 
-1.下载地址：https://github.com/FedWithMori/cssunit.git
-2.进入packages目录：Sublime Text -> Preferences -> Browse Packages...
-3.打开bash或者命令面板，git clone下来
-4.重启Sublime Text。
+1. 下载地址：https://github.com/FedWithMori/cssunit.git
+2. 进入packages目录：Sublime Text -> Preferences -> Browse Packages...
+3. 打开bash或者命令面板，git clone下来
+4. 重启Sublime Text。
 
 ##### 配置参数
 
